@@ -1,0 +1,9 @@
+{
+	"devDependencies": {
+		"@ladle/react": "^0.10.1",
+		"react": "17",
+		"react-dom": "17",
+		"vite": "^2.8.6",
+		"vite-plugin-svg-icons": "^2.0.1"
+	}
+}
